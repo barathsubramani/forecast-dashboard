@@ -18,7 +18,7 @@ The Contact Us page is designed in a way that the users can share their feedback
 ### Web App Design:
 
 #### Home
-[model]("des.png")
+[image]("des.png")
 
 #### About
 [model](about.png)
